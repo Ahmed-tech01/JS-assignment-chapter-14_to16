@@ -1,0 +1,12 @@
+var QuestionFive;
+document.write("<h1>QuestionThirteen:</h1 >");
+var arraryTwo = [];
+arraryTwo.push("Decices:<br>Keyboard,mouse, Printer, Monitor");
+arraryTwo.push("Out:<br>Keyboard");
+arraryTwo.push("Out:<br>Mouse");
+arraryTwo.push("Out:<br>Printer");
+arraryTwo.push("Out:<br>Monitor");
+document.write("<h2>" + arraryTwo.shift() + "<h2>");
+document.write("<h2>" + arraryTwo.shift() + "<h2>");
+document.write("<h2>" + arraryTwo.shift() + "<h2>");
+document.write("<h2>" + arraryTwo.shift() + "<h2>");
